@@ -1,7 +1,7 @@
 # ML Assignment 2: Bagging, Boosting and Bias-Variance (Olivetti Faces)
 
-Name: <your name> | Roll no: M26ECM506 | Seed: 26506
-Repo: <link> | Final commit: <hash>
+Name:Madhesh S | Roll no: M26ECM506 | Seed: 26506
+Repo:https://github.com/Madhesh-27/Madhesh_ML_assignment2_M26ECM506
 
 ## Environment
     pip install -r requirements.txt        # replace with `pip freeze > requirements.txt` output before submitting
